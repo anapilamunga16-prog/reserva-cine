@@ -1,7 +1,3 @@
-# Tarea Semana 12: Reserva de un asiento en sala de cine
-# Objetivo: gestionar la reserva de asientos de una sala de cine de 3 filas x 4 columnas
-# 0 = asiento libre, 1 = asiento reservado
-
 FILAS = 3
 COLUMNAS = 4
 
